@@ -1,0 +1,6 @@
+<span class="glyphicon glyphicon-remove" style="cursor:pointer" data-ng-click="startRemove()" data-ng-hide="removing"></span>
+
+<span ng-show="removing">
+	<button class="btn btn-xs btn-success" data-ng-click="confirmRemove()">Remove</button>
+	<button class="btn btn-xs btn-danger" data-ng-click="cancelRemove()">Never mind</button>
+</span>
