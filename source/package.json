@@ -1,0 +1,17 @@
+{
+  "name": "wid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "angular.min.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "lite-server": "^2.2.2",
+    "save": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
